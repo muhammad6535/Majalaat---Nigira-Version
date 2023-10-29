@@ -14,7 +14,7 @@ We reserve the right to amend, update or change these terms from time to time, a
 about us
 Majalat is an electronic platform that allows users to create groups to recite and recite the Holy Quran collectively.
 
-Majalat is a digital platform that aims to help everyone seeking education in our Arab society choose the field and place of study that best suits his or her inclinations, ambitions, abilities, and circumstances. The first version of the platform provides the possibility of networking and direct communication with people who have gone through an experience similar to the one at which the student is entering education, or are now studying a subject in an institution he is thinking of joining, or people who have graduated and worked in a field for several years and can provide advice about working in the field and its nature.
+Majalat is a digital platform that aims to help everyone seeking education in our  society choose the field and place of study that best suits his or her inclinations, ambitions, abilities, and circumstances. The first version of the platform provides the possibility of networking and direct communication with people who have gone through an experience similar to the one at which the student is entering education, or are now studying a subject in an institution he is thinking of joining, or people who have graduated and worked in a field for several years and can provide advice about working in the field and its nature.
 
 Digital signature
 By registering an account or using the site’s services, or by clicking on the accept terms and conditions box if available, you are deemed to have executed these terms and conditions electronically, and they are legally effective against you from the date of registering the account or using the site.
@@ -227,7 +227,7 @@ Force Majeure: Majalat website does not bear any responsibility for default, fai
 
 Prohibition of Assignment: You may not assign your obligations and rights under these Terms, or entrust the management of your account to another party, except after obtaining our written consent. Our failure or delay in enforcing any of these Terms will not constitute a waiver of our rights against you and will not affect our right to Demand its performance in the future.
 
-Language: These terms and conditions were formulated in the Arabic language, and if they are translated into any other foreign language, the Arabic language will be the approved and valid language before all official and unofficial bodies if the foreign language conflicts with it.
+Language: These terms and conditions were formulated in the English language, and if they are translated into any other foreign language, the English language will be the approved and valid language before all official and unofficial bodies if the foreign language conflicts with it.
 
 Conflict of terms: If these terms conflict with any of the previous versions, the current version will prevail unless otherwise stated.
 

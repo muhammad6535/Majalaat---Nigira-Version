@@ -46,7 +46,7 @@ class HomeScreen extends StatelessWidget {
                 horizontal: 30,
               ),
               child: Text(
-                  "A community initiative aimed at helping every male and female student in our Arab community choose the most suitable academic field and institution based on their interests, aspirations, capabilities, and circumstances.",
+                  "A community initiative aimed to helping every student in our community choose the most suitable academic field and institution based on their interests, aspirations, capabilities, and circumstances.",
                   textAlign: TextAlign.center,
                   style: GoogleFonts.almarai(
                     fontSize: 17,
